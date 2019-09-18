@@ -4,7 +4,7 @@ This are some simple exercices with some examples.
 ## Getting Started
 Clone (or download) the repository to your machine.
 ### Visual Studio 2019
-Almost everything is already ready, you just need to open the ``Exercices.sln``
+Almost everything is already ready, you just need to open the ``Exercises.sln``
 
 Then you can activate an Exercice by right clicking on one.
 
@@ -13,9 +13,9 @@ And select ``Set as StartUp Project`` in the menu.
 After that you click on ``Local Windows Debugger`` on top to execute it.
 
 ### Compiling with GCC on Windows
-go into an folder, example for exercice 1:
+go into an folder, example for exercise 1:
 ```bash
-cd Exercice_1
+cd Exercise_1
 ```
 run gcc, example for exercice 1 :
 ```bash
@@ -30,7 +30,7 @@ and run the created program, example for exercice 1 :
 almost the same thing as for Windows :
 go into an folder, example for exercice 1:
 ```bash
-cd Exercice_1
+cd Exercise_1
 ```
 run gcc, example for exercice 1 :
 ```bash
